@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\GeekBrains\\1_Учебный процесс\\1 четверть\\7_Знакомство с языками программирования (лекции)\\Урок 1. Знакомство с языком программирования C#\\Lesson1\\Examples\\Example 003_Sum\\Example 003_Sum.csproj": {}
+    "G:\\GeekBrains\\1_Учебный процесс\\1 четверть\\7_Знакомство с языками программирования (лекции)\\Урок 1. Знакомство с языком программирования C#\\Examples\\Example003_Sum\\Example 003_Sum.csproj": {}
   },
   "projects": {
-    "G:\\GeekBrains\\1_Учебный процесс\\1 четверть\\7_Знакомство с языками программирования (лекции)\\Урок 1. Знакомство с языком программирования C#\\Lesson1\\Examples\\Example 003_Sum\\Example 003_Sum.csproj": {
+    "G:\\GeekBrains\\1_Учебный процесс\\1 четверть\\7_Знакомство с языками программирования (лекции)\\Урок 1. Знакомство с языком программирования C#\\Examples\\Example003_Sum\\Example 003_Sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\GeekBrains\\1_Учебный процесс\\1 четверть\\7_Знакомство с языками программирования (лекции)\\Урок 1. Знакомство с языком программирования C#\\Lesson1\\Examples\\Example 003_Sum\\Example 003_Sum.csproj",
+        "projectUniqueName": "G:\\GeekBrains\\1_Учебный процесс\\1 четверть\\7_Знакомство с языками программирования (лекции)\\Урок 1. Знакомство с языком программирования C#\\Examples\\Example003_Sum\\Example 003_Sum.csproj",
         "projectName": "Example 003_Sum",
-        "projectPath": "G:\\GeekBrains\\1_Учебный процесс\\1 четверть\\7_Знакомство с языками программирования (лекции)\\Урок 1. Знакомство с языком программирования C#\\Lesson1\\Examples\\Example 003_Sum\\Example 003_Sum.csproj",
+        "projectPath": "G:\\GeekBrains\\1_Учебный процесс\\1 четверть\\7_Знакомство с языками программирования (лекции)\\Урок 1. Знакомство с языком программирования C#\\Examples\\Example003_Sum\\Example 003_Sum.csproj",
         "packagesPath": "C:\\Users\\TheWitcher\\.nuget\\packages\\",
-        "outputPath": "G:\\GeekBrains\\1_Учебный процесс\\1 четверть\\7_Знакомство с языками программирования (лекции)\\Урок 1. Знакомство с языком программирования C#\\Lesson1\\Examples\\Example 003_Sum\\obj\\",
+        "outputPath": "G:\\GeekBrains\\1_Учебный процесс\\1 четверть\\7_Знакомство с языками программирования (лекции)\\Урок 1. Знакомство с языком программирования C#\\Examples\\Example003_Sum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TheWitcher\\AppData\\Roaming\\NuGet\\NuGet.Config"
